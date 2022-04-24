@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mni_product"
+        android:title="Product Information"></item>
+
+    <item
+        android:id="@+id/mni_order"
+        android:title="Order Information"></item>
+</menu>
